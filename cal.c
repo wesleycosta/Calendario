@@ -1,8 +1,8 @@
 /**********************************************
-*** Programa ......: Cal.c                  ***
-*** Autor .........: Wesley Costa           ***
-*** Portu·rio......: 1510797                ***
-*** Data ..........: Junho de 2016          ***
+*** Programa .......: Cal.c                  ***
+*** Autor ..........: Wesley Costa           ***
+*** Prontu√°rio......: 1510797                ***
+*** Data ...........: Junho de 2016          ***
 ************************************************/
 #include <stdio.h>
 #include <locale.h>
@@ -86,7 +86,7 @@ char *GetMes(int mes)
      {
         case  1: return "Janeiro";
         case  2: return "Fevereiro";
-        case  3: return "MarÁo";
+        case  3: return "Mar√ßo";
         case  4: return "Abril";
         case  5: return "Maio";
         case  6: return "Junho";
